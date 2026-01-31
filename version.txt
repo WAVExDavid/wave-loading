@@ -1,1 +1,2 @@
-1.0.0
+print("Wave Scripts Version 1.0.0")
+return "1.0.0"
